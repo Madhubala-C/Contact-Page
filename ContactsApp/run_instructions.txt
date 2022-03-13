@@ -1,0 +1,4 @@
+1) Open "index.html" in any desired browser. It will display Sign In page.
+2) Click on "Sign In" button it will redirect to "Contact Form and Contact List Page", Click on "Save" it will go back to the Sign in Page.
+3) Click on "Sign Up" link it will redirect to Sign Up page. Click on "Sign in" to go to Sign In page.
+
